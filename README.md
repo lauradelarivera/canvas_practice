@@ -1,2 +1,2 @@
 # canvas_practice
-Draws with Canvas on JAvaScript and HTML
+Draws with Canvas on JavaScript and HTML
